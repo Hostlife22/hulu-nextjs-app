@@ -2,6 +2,11 @@
 
 ### [Site link](https://hulu-nextjs-app-one.vercel.app/)
 
+<kbd>
+  <img align="right" alt="img" src="jQCF8Ii.jpeg"  />
+</kbd>
+
+
 ### 🛠 The tech stack is:
 
 - [Nextjs](https://nextjs.org/)
